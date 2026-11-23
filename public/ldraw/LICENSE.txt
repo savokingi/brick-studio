@@ -1,0 +1,5 @@
+LDraw parts library files and compiled geometry are licensed under CC BY 4.0.
+https://creativecommons.org/licenses/by/4.0/
+https://www.ldraw.org/article/349.html
+Original authors and source filenames are listed in ATTRIBUTION.json.
+Compiled geometry changes: flattening, unit conversion and vertex normals.

@@ -1,0 +1,3116 @@
+[
+  {
+    "name": "15068.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/15068.dat"
+  },
+  {
+    "name": "2412b.dat",
+    "author": "Guy Vivan [guyvivan]",
+    "license": "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/2412b.dat"
+  },
+  {
+    "name": "54200.dat",
+    "author": "Orion Pobursky [OrionP]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/54200.dat"
+  },
+  {
+    "name": "85984.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/85984.dat"
+  },
+  {
+    "name": "s/15068s01.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/15068s01.dat"
+  },
+  {
+    "name": "48/1-8cyli.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/1-8cyli.dat"
+  },
+  {
+    "name": "2-4cyli.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-4cyli.dat"
+  },
+  {
+    "name": "2-4disc.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-4disc.dat"
+  },
+  {
+    "name": "2-4edge.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-4edge.dat"
+  },
+  {
+    "name": "rect.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/rect.dat"
+  },
+  {
+    "name": "box4.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box4.dat"
+  },
+  {
+    "name": "s/54200s01.dat",
+    "author": "Orion Pobursky [OrionP]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/54200s01.dat"
+  },
+  {
+    "name": "s/85984s01.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/85984s01.dat"
+  },
+  {
+    "name": "box2-7.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box2-7.dat"
+  },
+  {
+    "name": "stud3a.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stud3a.dat"
+  },
+  {
+    "name": "stud3.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stud3.dat"
+  },
+  {
+    "name": "4-4cylse.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4cylse.dat"
+  },
+  {
+    "name": "3-16edge.dat",
+    "author": "Donald Sutter [technog]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-16edge.dat"
+  },
+  {
+    "name": "3-16ndis.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-16ndis.dat"
+  },
+  {
+    "name": "3-16chrd.dat",
+    "author": "Niels Karsdorp [nielsk]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-16chrd.dat"
+  },
+  {
+    "name": "box2-5.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box2-5.dat"
+  },
+  {
+    "name": "3-16cys2.dat",
+    "author": "Donald Sutter [technog]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-16cys2.dat"
+  },
+  {
+    "name": "box4-2p.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box4-2p.dat"
+  },
+  {
+    "name": "box2-11.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box2-11.dat"
+  },
+  {
+    "name": "rect3.dat",
+    "author": "Mark Kennedy [mkennedy]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/rect3.dat"
+  },
+  {
+    "name": "recte4.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/recte4.dat"
+  },
+  {
+    "name": "rect2p.dat",
+    "author": "Donald Sutter [technog]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/rect2p.dat"
+  },
+  {
+    "name": "48/1-8chrd.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/1-8chrd.dat"
+  },
+  {
+    "name": "48/1-8edge.dat",
+    "author": "[PTadmin]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/1-8edge.dat"
+  },
+  {
+    "name": "4-4edge.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4edge.dat"
+  },
+  {
+    "name": "4-4cyli.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4cyli.dat"
+  },
+  {
+    "name": "4-4cyls.dat",
+    "author": "Donald Sutter [technog]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4cyls.dat"
+  },
+  {
+    "name": "4-4disc.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4disc.dat"
+  },
+  {
+    "name": "60592.dat",
+    "author": "Michael Heidemann [mikeheide]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/60592.dat"
+  },
+  {
+    "name": "60601.dat",
+    "author": "Michael Heidemann [mikeheide]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/60601.dat"
+  },
+  {
+    "name": "59349.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/59349.dat"
+  },
+  {
+    "name": "11477.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/11477.dat"
+  },
+  {
+    "name": "2-4ndis.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-4ndis.dat"
+  },
+  {
+    "name": "4-4ndis.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4ndis.dat"
+  },
+  {
+    "name": "stug2-1x2.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug2-1x2.dat"
+  },
+  {
+    "name": "4-4cylo.dat",
+    "author": "Mark Kennedy [mkennedy]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4cylo.dat"
+  },
+  {
+    "name": "1-4ndis.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4ndis.dat"
+  },
+  {
+    "name": "1-4edge.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4edge.dat"
+  },
+  {
+    "name": "1-4cyli.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4cyli.dat"
+  },
+  {
+    "name": "7-16cyli.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/7-16cyli.dat"
+  },
+  {
+    "name": "box0.dat",
+    "author": "Santeri Piippo [arezey]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box0.dat"
+  },
+  {
+    "name": "7-16disc.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/7-16disc.dat"
+  },
+  {
+    "name": "7-16ndis.dat",
+    "author": "Alex Taylor [anathema]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/7-16ndis.dat"
+  },
+  {
+    "name": "box4-4a.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box4-4a.dat"
+  },
+  {
+    "name": "7-16edge.dat",
+    "author": "Orion Pobursky [OrionP]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/7-16edge.dat"
+  },
+  {
+    "name": "box3u8p.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box3u8p.dat"
+  },
+  {
+    "name": "s/59349s01.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/59349s01.dat"
+  },
+  {
+    "name": "recte3.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/recte3.dat"
+  },
+  {
+    "name": "s/60601s01.dat",
+    "author": "Ulrich Röder [UR]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/60601s01.dat"
+  },
+  {
+    "name": "s/11477s01.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/11477s01.dat"
+  },
+  {
+    "name": "stud2.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stud2.dat"
+  },
+  {
+    "name": "box5.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box5.dat"
+  },
+  {
+    "name": "stug2-1x6.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug2-1x6.dat"
+  },
+  {
+    "name": "box3u2p.dat",
+    "author": "Niels Karsdorp [nielsk]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box3u2p.dat"
+  },
+  {
+    "name": "2-4chrd.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-4chrd.dat"
+  },
+  {
+    "name": "2-4cylo.dat",
+    "author": "Max Martin Richter [MMR1988]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-4cylo.dat"
+  },
+  {
+    "name": "1-4cyls2.dat",
+    "author": "Chris Dee [cwdee]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4cyls2.dat"
+  },
+  {
+    "name": "box2-9.dat",
+    "author": "Mark Kennedy [mkennedy]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box2-9.dat"
+  },
+  {
+    "name": "box4-1.dat",
+    "author": "Tore Eriksson [Tore_Eriksson]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box4-1.dat"
+  },
+  {
+    "name": "4-4ring2.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4ring2.dat"
+  },
+  {
+    "name": "60581.dat",
+    "author": "Rolf Osterthun [Rolf]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/60581.dat"
+  },
+  {
+    "name": "15207.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/15207.dat"
+  },
+  {
+    "name": "2877.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/2877.dat"
+  },
+  {
+    "name": "87544.dat",
+    "author": "Rene Rechthaler [Blechtaler]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/87544.dat"
+  },
+  {
+    "name": "s/60581s01.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/60581s01.dat"
+  },
+  {
+    "name": "1-4cylo.dat",
+    "author": "Max Martin Richter [MMR1988]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4cylo.dat"
+  },
+  {
+    "name": "stud.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stud.dat"
+  },
+  {
+    "name": "s/87544s01.dat",
+    "author": "Rene Rechthaler [Blechtaler]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/87544s01.dat"
+  },
+  {
+    "name": "1-4disc.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4disc.dat"
+  },
+  {
+    "name": "box3u4a.dat",
+    "author": "Niels Karsdorp [nielsk]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box3u4a.dat"
+  },
+  {
+    "name": "1-4chrd.dat",
+    "author": "Max Martin Richter [MMR1988]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4chrd.dat"
+  },
+  {
+    "name": "stug3-1x3.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug3-1x3.dat"
+  },
+  {
+    "name": "stug2-1x4.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug2-1x4.dat"
+  },
+  {
+    "name": "60593.dat",
+    "author": "Alex Taylor [anathema]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/60593.dat"
+  },
+  {
+    "name": "60602.dat",
+    "author": "Alex Taylor [anathema]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/60602.dat"
+  },
+  {
+    "name": "60607.dat",
+    "author": "Ulrich Röder [UR]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/60607.dat"
+  },
+  {
+    "name": "3037.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3037.dat"
+  },
+  {
+    "name": "box5-4a.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box5-4a.dat"
+  },
+  {
+    "name": "s/3037s01.dat",
+    "author": "Orion Pobursky [OrionP]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3037s01.dat"
+  },
+  {
+    "name": "4-8sphe.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-8sphe.dat"
+  },
+  {
+    "name": "stud4a.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stud4a.dat"
+  },
+  {
+    "name": "1-8sphe.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-8sphe.dat"
+  },
+  {
+    "name": "1-4cyls.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4cyls.dat"
+  },
+  {
+    "name": "4-4ring3.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4ring3.dat"
+  },
+  {
+    "name": "15533.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/15533.dat"
+  },
+  {
+    "name": "92950.dat",
+    "author": "Alex Taylor [anathema]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/92950.dat"
+  },
+  {
+    "name": "3633.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3633.dat"
+  },
+  {
+    "name": "6182.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/6182.dat"
+  },
+  {
+    "name": "stug-1x4.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug-1x4.dat"
+  },
+  {
+    "name": "rect1.dat",
+    "author": "Chris Dee [cwdee]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/rect1.dat"
+  },
+  {
+    "name": "tri3.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/tri3.dat"
+  },
+  {
+    "name": "s/92950s01.dat",
+    "author": "Vincent Messenet [Cheenzo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/92950s01.dat"
+  },
+  {
+    "name": "48/1-4cylo.dat",
+    "author": "Max Martin Richter [MMR1988]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/1-4cylo.dat"
+  },
+  {
+    "name": "stug-1x6.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug-1x6.dat"
+  },
+  {
+    "name": "48/1-4edge.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/1-4edge.dat"
+  },
+  {
+    "name": "48/1-4cyli.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/1-4cyli.dat"
+  },
+  {
+    "name": "15332.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/15332.dat"
+  },
+  {
+    "name": "80543.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/80543.dat"
+  },
+  {
+    "name": "3043.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3043.dat"
+  },
+  {
+    "name": "30137.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/30137.dat"
+  },
+  {
+    "name": "48/3-16tang.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/3-16tang.dat"
+  },
+  {
+    "name": "stug-1x2.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug-1x2.dat"
+  },
+  {
+    "name": "48/5-24cylo.dat",
+    "author": "Max Martin Richter [MMR1988]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/5-24cylo.dat"
+  },
+  {
+    "name": "box4o4a.dat",
+    "author": "Donald Sutter [technog]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box4o4a.dat"
+  },
+  {
+    "name": "48/5-24edge.dat",
+    "author": "Paul Easter [pneaster]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/5-24edge.dat"
+  },
+  {
+    "name": "48/5-24cyli.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/5-24cyli.dat"
+  },
+  {
+    "name": "92589.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/92589.dat"
+  },
+  {
+    "name": "57894.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/57894.dat"
+  },
+  {
+    "name": "14718.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/14718.dat"
+  },
+  {
+    "name": "57895.dat",
+    "author": "Michael Heidemann [mikeheide]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/57895.dat"
+  },
+  {
+    "name": "box4o8a.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box4o8a.dat"
+  },
+  {
+    "name": "3-8ndis.dat",
+    "author": "Alex Taylor [anathema]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-8ndis.dat"
+  },
+  {
+    "name": "s/92589s01.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/92589s01.dat"
+  },
+  {
+    "name": "1-8ndis.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-8ndis.dat"
+  },
+  {
+    "name": "1-8cyli.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-8cyli.dat"
+  },
+  {
+    "name": "3-4cyli.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-4cyli.dat"
+  },
+  {
+    "name": "2-4ring13.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-4ring13.dat"
+  },
+  {
+    "name": "2-4ring1.dat",
+    "author": "Chris Dee [cwdee]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-4ring1.dat"
+  },
+  {
+    "name": "3-4edge.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-4edge.dat"
+  },
+  {
+    "name": "2-4ring14.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-4ring14.dat"
+  },
+  {
+    "name": "1-8edge.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-8edge.dat"
+  },
+  {
+    "name": "1-4ring14.dat",
+    "author": "Franklin W. Cain [fwcain]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4ring14.dat"
+  },
+  {
+    "name": "1-4ring13.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4ring13.dat"
+  },
+  {
+    "name": "1-4ring1.dat",
+    "author": "Chris Dee [cwdee]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4ring1.dat"
+  },
+  {
+    "name": "s/14718s01.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/14718s01.dat"
+  },
+  {
+    "name": "2-4cylc.dat",
+    "author": "Alex Taylor [anathema]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-4cylc.dat"
+  },
+  {
+    "name": "s/57895s01.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/57895s01.dat"
+  },
+  {
+    "name": "4-4ring40.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4ring40.dat"
+  },
+  {
+    "name": "4-4ring5.dat",
+    "author": "Mark Kennedy [mkennedy]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4ring5.dat"
+  },
+  {
+    "name": "bump5000.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/bump5000.dat"
+  },
+  {
+    "name": "3-8edge.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-8edge.dat"
+  },
+  {
+    "name": "3-8cyli.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-8cyli.dat"
+  },
+  {
+    "name": "1-4cylc.dat",
+    "author": "Mark Kennedy [mkennedy]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4cylc.dat"
+  },
+  {
+    "name": "box3u10p.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box3u10p.dat"
+  },
+  {
+    "name": "4-4con1.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4con1.dat"
+  },
+  {
+    "name": "4-4con0.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4con0.dat"
+  },
+  {
+    "name": "4-4con3.dat",
+    "author": "Niels Karsdorp [nielsk]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4con3.dat"
+  },
+  {
+    "name": "3298.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3298.dat"
+  },
+  {
+    "name": "6005.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/6005.dat"
+  },
+  {
+    "name": "3005.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3005.dat"
+  },
+  {
+    "name": "3004.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3004.dat"
+  },
+  {
+    "name": "s/3298s01.dat",
+    "author": "Mark Kennedy [mkennedy]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3298s01.dat"
+  },
+  {
+    "name": "s/3005s01.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3005s01.dat"
+  },
+  {
+    "name": "1-8cylo.dat",
+    "author": "Tim Gould [timgould]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-8cylo.dat"
+  },
+  {
+    "name": "s/3004s01.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3004s01.dat"
+  },
+  {
+    "name": "1-8chrd.dat",
+    "author": "Orion Pobursky [OrionP]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-8chrd.dat"
+  },
+  {
+    "name": "stud4s.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stud4s.dat"
+  },
+  {
+    "name": "box4t.dat",
+    "author": "Tore Eriksson [Tore_Eriksson]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box4t.dat"
+  },
+  {
+    "name": "3622.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3622.dat"
+  },
+  {
+    "name": "3010.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3010.dat"
+  },
+  {
+    "name": "3008.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3008.dat"
+  },
+  {
+    "name": "3009.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3009.dat"
+  },
+  {
+    "name": "s/3622s01.dat",
+    "author": "Takeshi Takahashi [RainbowDolphin]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3622s01.dat"
+  },
+  {
+    "name": "s/3010s01.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3010s01.dat"
+  },
+  {
+    "name": "s/3008s01.dat",
+    "author": "Takeshi Takahashi [RainbowDolphin]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3008s01.dat"
+  },
+  {
+    "name": "s/3009s01.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3009s01.dat"
+  },
+  {
+    "name": "stug3-1x2.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug3-1x2.dat"
+  },
+  {
+    "name": "stug-1x8.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug-1x8.dat"
+  },
+  {
+    "name": "stug3-1x7.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug3-1x7.dat"
+  },
+  {
+    "name": "stug-1x3.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug-1x3.dat"
+  },
+  {
+    "name": "3003.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3003.dat"
+  },
+  {
+    "name": "3002.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3002.dat"
+  },
+  {
+    "name": "2456.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/2456.dat"
+  },
+  {
+    "name": "3001.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3001.dat"
+  },
+  {
+    "name": "s/3003s01.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3003s01.dat"
+  },
+  {
+    "name": "s/3002s01.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3002s01.dat"
+  },
+  {
+    "name": "s/3001s01.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3001s01.dat"
+  },
+  {
+    "name": "stud4.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stud4.dat"
+  },
+  {
+    "name": "s/3003s02.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3003s02.dat"
+  },
+  {
+    "name": "stug-2x2.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug-2x2.dat"
+  },
+  {
+    "name": "3024.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3024.dat"
+  },
+  {
+    "name": "3023.dat",
+    "author": "Orion Pobursky [OrionP]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3023.dat"
+  },
+  {
+    "name": "3710.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3710.dat"
+  },
+  {
+    "name": "3623.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3623.dat"
+  },
+  {
+    "name": "3023b.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3023b.dat"
+  },
+  {
+    "name": "s/3024s01.dat",
+    "author": "Tore Eriksson [Tore_Eriksson]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3024s01.dat"
+  },
+  {
+    "name": "s/3710s01.dat",
+    "author": "Massimo Maso [Sirio]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3710s01.dat"
+  },
+  {
+    "name": "s/3623s01.dat",
+    "author": "Massimo Maso [Sirio]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3623s01.dat"
+  },
+  {
+    "name": "s/3023bs01.dat",
+    "author": "Massimo Maso [Sirio]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3023bs01.dat"
+  },
+  {
+    "name": "3022.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3022.dat"
+  },
+  {
+    "name": "3460.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3460.dat"
+  },
+  {
+    "name": "3021.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3021.dat"
+  },
+  {
+    "name": "3666.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3666.dat"
+  },
+  {
+    "name": "s/3460s01.dat",
+    "author": "Massimo Maso [Sirio]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3460s01.dat"
+  },
+  {
+    "name": "s/3666s01.dat",
+    "author": "Massimo Maso [Sirio]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3666s01.dat"
+  },
+  {
+    "name": "stug3-1x5.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug3-1x5.dat"
+  },
+  {
+    "name": "3020.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3020.dat"
+  },
+  {
+    "name": "3034.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3034.dat"
+  },
+  {
+    "name": "3031.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3031.dat"
+  },
+  {
+    "name": "3795.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3795.dat"
+  },
+  {
+    "name": "3958.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3958.dat"
+  },
+  {
+    "name": "3036.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3036.dat"
+  },
+  {
+    "name": "3035.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3035.dat"
+  },
+  {
+    "name": "3032.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3032.dat"
+  },
+  {
+    "name": "stug4-5x5.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug4-5x5.dat"
+  },
+  {
+    "name": "stug-6x6.dat",
+    "author": "Tore Eriksson [Tore_Eriksson]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug-6x6.dat"
+  },
+  {
+    "name": "stug4-4x4.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug4-4x4.dat"
+  },
+  {
+    "name": "stug-3x3.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug-3x3.dat"
+  },
+  {
+    "name": "stug4-1x4.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug4-1x4.dat"
+  },
+  {
+    "name": "stug4-1x5.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug4-1x5.dat"
+  },
+  {
+    "name": "stug4-2x2.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug4-2x2.dat"
+  },
+  {
+    "name": "92438.dat",
+    "author": "Rolf Osterthun [Rolf]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/92438.dat"
+  },
+  {
+    "name": "91405.dat",
+    "author": "Donald Sutter [technog]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/91405.dat"
+  },
+  {
+    "name": "3070b.dat",
+    "author": "Chris Dee [cwdee]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3070b.dat"
+  },
+  {
+    "name": "41539.dat",
+    "author": "Martin G Cormier",
+    "license": "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/41539.dat"
+  },
+  {
+    "name": "stug4-1x7.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug4-1x7.dat"
+  },
+  {
+    "name": "stug-8x8.dat",
+    "author": "Tore Eriksson [Tore_Eriksson]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug-8x8.dat"
+  },
+  {
+    "name": "stug4-7x7.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug4-7x7.dat"
+  },
+  {
+    "name": "stug8.dat",
+    "author": "[PTadmin]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug8.dat"
+  },
+  {
+    "name": "s/91405s01.dat",
+    "author": "Donald Sutter [technog]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/91405s01.dat"
+  },
+  {
+    "name": "s/91405s02.dat",
+    "author": "Donald Sutter [technog]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/91405s02.dat"
+  },
+  {
+    "name": "s/3070bs01.dat",
+    "author": "Chris Dee [cwdee]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3070bs01.dat"
+  },
+  {
+    "name": "stug4-1x6.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug4-1x6.dat"
+  },
+  {
+    "name": "stug-4x4.dat",
+    "author": "Tore Eriksson [Tore_Eriksson]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug-4x4.dat"
+  },
+  {
+    "name": "stug4-6x6.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug4-6x6.dat"
+  },
+  {
+    "name": "box4-3p.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box4-3p.dat"
+  },
+  {
+    "name": "1-4ring3.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4ring3.dat"
+  },
+  {
+    "name": "stug4-3x3.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug4-3x3.dat"
+  },
+  {
+    "name": "3069b.dat",
+    "author": "Santeri Piippo [arezey]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3069b.dat"
+  },
+  {
+    "name": "6636.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/6636.dat"
+  },
+  {
+    "name": "2431.dat",
+    "author": "Santeri Piippo [arezey]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/2431.dat"
+  },
+  {
+    "name": "63864.dat",
+    "author": "Tim Gould [timgould]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/63864.dat"
+  },
+  {
+    "name": "s/3069bs01.dat",
+    "author": "Santeri Piippo [arezey]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3069bs01.dat"
+  },
+  {
+    "name": "s/6636s01.dat",
+    "author": "Takeshi Takahashi [RainbowDolphin]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/6636s01.dat"
+  },
+  {
+    "name": "s/2431s01.dat",
+    "author": "Santeri Piippo [arezey]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/2431s01.dat"
+  },
+  {
+    "name": "s/63864s01.dat",
+    "author": "Ulrich Röder [UR]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/63864s01.dat"
+  },
+  {
+    "name": "3068b.dat",
+    "author": "Takeshi Takahashi [RainbowDolphin]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3068b.dat"
+  },
+  {
+    "name": "26603.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/26603.dat"
+  },
+  {
+    "name": "87079.dat",
+    "author": "Tim Gould [timgould]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/87079.dat"
+  },
+  {
+    "name": "60594.dat",
+    "author": "J.C. Tchang [tchang]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/60594.dat"
+  },
+  {
+    "name": "s/3068bs01.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3068bs01.dat"
+  },
+  {
+    "name": "s/26603s01.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/26603s01.dat"
+  },
+  {
+    "name": "s/87079s01.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/87079s01.dat"
+  },
+  {
+    "name": "rect2a.dat",
+    "author": "Chris Dee [cwdee]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/rect2a.dat"
+  },
+  {
+    "name": "3-4disc.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-4disc.dat"
+  },
+  {
+    "name": "stug4-1x2.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug4-1x2.dat"
+  },
+  {
+    "name": "60603.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/60603.dat"
+  },
+  {
+    "name": "3659.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3659.dat"
+  },
+  {
+    "name": "60596.dat",
+    "author": "J.C. Tchang [tchang]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/60596.dat"
+  },
+  {
+    "name": "60623.dat",
+    "author": "Alex Taylor [anathema]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/60623.dat"
+  },
+  {
+    "name": "86210.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/86210.dat"
+  },
+  {
+    "name": "5-8edge.dat",
+    "author": "Mark Kennedy [mkennedy]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/5-8edge.dat"
+  },
+  {
+    "name": "3-4cylc.dat",
+    "author": "J.C. Tchang [tchang]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-4cylc.dat"
+  },
+  {
+    "name": "stud2a.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stud2a.dat"
+  },
+  {
+    "name": "s/86210s01.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/86210s01.dat"
+  },
+  {
+    "name": "4-4ring1.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4ring1.dat"
+  },
+  {
+    "name": "3039.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3039.dat"
+  },
+  {
+    "name": "3040b.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3040b.dat"
+  },
+  {
+    "name": "98283.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/98283.dat"
+  },
+  {
+    "name": "s/3039s01.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3039s01.dat"
+  },
+  {
+    "name": "4070.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/4070.dat"
+  },
+  {
+    "name": "s/3040s01.dat",
+    "author": "Orion Pobursky [OrionP]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3040s01.dat"
+  },
+  {
+    "name": "98138.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/98138.dat"
+  },
+  {
+    "name": "3941.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3941.dat"
+  },
+  {
+    "name": "24866.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/24866.dat"
+  },
+  {
+    "name": "3062b.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3062b.dat"
+  },
+  {
+    "name": "s/98138s01.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/98138s01.dat"
+  },
+  {
+    "name": "s/3941s01.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3941s01.dat"
+  },
+  {
+    "name": "s/3062bs01.dat",
+    "author": "Takeshi Takahashi [RainbowDolphin]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3062bs01.dat"
+  },
+  {
+    "name": "s/24866s01.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/24866s01.dat"
+  },
+  {
+    "name": "s/98138s02.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/98138s02.dat"
+  },
+  {
+    "name": "4-4ring9.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4ring9.dat"
+  },
+  {
+    "name": "axlehol2.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/axlehol2.dat"
+  },
+  {
+    "name": "axlehole.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/axlehole.dat"
+  },
+  {
+    "name": "axlehol3.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/axlehol3.dat"
+  },
+  {
+    "name": "stug10-2x2.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug10-2x2.dat"
+  },
+  {
+    "name": "4-4ring4.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4ring4.dat"
+  },
+  {
+    "name": "stud4od.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stud4od.dat"
+  },
+  {
+    "name": "stud4o.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stud4o.dat"
+  },
+  {
+    "name": "axl5ho10.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/axl5ho10.dat"
+  },
+  {
+    "name": "4-4ring8.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4ring8.dat"
+  },
+  {
+    "name": "axl5hol8.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/axl5hol8.dat"
+  },
+  {
+    "name": "axl5hol9.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/axl5hol9.dat"
+  },
+  {
+    "name": "1-16chrd.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-16chrd.dat"
+  },
+  {
+    "name": "stud10.dat",
+    "author": "Orion Pobursky [OrionP]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stud10.dat"
+  },
+  {
+    "name": "4-4cylc.dat",
+    "author": "Alex Taylor [anathema]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4cylc.dat"
+  },
+  {
+    "name": "empty.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/empty.dat"
+  },
+  {
+    "name": "2423.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/2423.dat"
+  },
+  {
+    "name": "6141.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/6141.dat"
+  },
+  {
+    "name": "37762.dat",
+    "author": "Niklas Buchmann [NiklasB]",
+    "license": "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/37762.dat"
+  },
+  {
+    "name": "30136.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/30136.dat"
+  },
+  {
+    "name": "2-4ring3.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-4ring3.dat"
+  },
+  {
+    "name": "1-8tang.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-8tang.dat"
+  },
+  {
+    "name": "1-4tang.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4tang.dat"
+  },
+  {
+    "name": "2-4ring4.dat",
+    "author": "Paul Easter [pneaster]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-4ring4.dat"
+  },
+  {
+    "name": "3-4ring2.dat",
+    "author": "Mark Kennedy [mkennedy]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-4ring2.dat"
+  },
+  {
+    "name": "1-8ring3.dat",
+    "author": "Paul Easter [pneaster]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-8ring3.dat"
+  },
+  {
+    "name": "tri3a1.dat",
+    "author": "Mark Kennedy [mkennedy]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/tri3a1.dat"
+  },
+  {
+    "name": "tri3a4.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/tri3a4.dat"
+  },
+  {
+    "name": "4865b.dat",
+    "author": "Rolf Osterthun [Rolf]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/4865b.dat"
+  },
+  {
+    "name": "4162.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/4162.dat"
+  },
+  {
+    "name": "22885.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/22885.dat"
+  },
+  {
+    "name": "87580.dat",
+    "author": "Joerg Sommerer [Brickaneer]",
+    "license": "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/87580.dat"
+  },
+  {
+    "name": "s/4865bs01.dat",
+    "author": "Damien Roux [Darats]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/4865bs01.dat"
+  },
+  {
+    "name": "s/4162s01.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/4162s01.dat"
+  },
+  {
+    "name": "box3u6.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box3u6.dat"
+  },
+  {
+    "name": "stug2-2x2.dat",
+    "author": "Steffen [Steffen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stug2-2x2.dat"
+  },
+  {
+    "name": "3899.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3899.dat"
+  },
+  {
+    "name": "4079.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/4079.dat"
+  },
+  {
+    "name": "4740.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/4740.dat"
+  },
+  {
+    "name": "4599a.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/4599a.dat"
+  },
+  {
+    "name": "s/3899s01.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3899s01.dat"
+  },
+  {
+    "name": "4-4con4.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4con4.dat"
+  },
+  {
+    "name": "r04o1000.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/r04o1000.dat"
+  },
+  {
+    "name": "s/4740s01.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/4740s01.dat"
+  },
+  {
+    "name": "4-4ring19.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4ring19.dat"
+  },
+  {
+    "name": "2-8sphe.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-8sphe.dat"
+  },
+  {
+    "name": "2465.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/2465.dat"
+  },
+  {
+    "name": "1126.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/1126.dat"
+  },
+  {
+    "name": "2417.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/2417.dat"
+  },
+  {
+    "name": "2653.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/2653.dat"
+  },
+  {
+    "name": "s/1126s01.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/1126s01.dat"
+  },
+  {
+    "name": "s/2465s01.dat",
+    "author": "Michael Heidemann [mikeheide]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/2465s01.dat"
+  },
+  {
+    "name": "2-4ring9.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-4ring9.dat"
+  },
+  {
+    "name": "box2-9p.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box2-9p.dat"
+  },
+  {
+    "name": "2-4ring2.dat",
+    "author": "Chris Dee [cwdee]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-4ring2.dat"
+  },
+  {
+    "name": "3045.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3045.dat"
+  },
+  {
+    "name": "3455.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3455.dat"
+  },
+  {
+    "name": "3185.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3185.dat"
+  },
+  {
+    "name": "3307.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3307.dat"
+  },
+  {
+    "name": "1-8cyls.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-8cyls.dat"
+  },
+  {
+    "name": "48/2-4cylo.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/2-4cylo.dat"
+  },
+  {
+    "name": "48/2-4ndis.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/2-4ndis.dat"
+  },
+  {
+    "name": "48/2-4cyli.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/2-4cyli.dat"
+  },
+  {
+    "name": "48/2-4edge.dat",
+    "author": "Paul Easter [pneaster]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/2-4edge.dat"
+  },
+  {
+    "name": "3471.dat",
+    "author": "Tore Eriksson [Tore_Eriksson]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3471.dat"
+  },
+  {
+    "name": "3665.dat",
+    "author": "[PTadmin]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3665.dat"
+  },
+  {
+    "name": "s/3471s01.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3471s01.dat"
+  },
+  {
+    "name": "3665a.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3665a.dat"
+  },
+  {
+    "name": "t04o2000.dat",
+    "author": "Paul Easter [pneaster]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/t04o2000.dat"
+  },
+  {
+    "name": "t02i4000.dat",
+    "author": "Michael Heidemann [mikeheide]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/t02i4000.dat"
+  },
+  {
+    "name": "s/3665as01.dat",
+    "author": "Michael Heidemann [mikeheide]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3665as01.dat"
+  },
+  {
+    "name": "3898.dat",
+    "author": "Lee Gaiteri [LummoxJR]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3898.dat"
+  },
+  {
+    "name": "stud2s.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stud2s.dat"
+  },
+  {
+    "name": "3901.dat",
+    "author": "Chris Dee [cwdee]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3901.dat"
+  },
+  {
+    "name": "4-4ring13.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4ring13.dat"
+  },
+  {
+    "name": "s/3898s01.dat",
+    "author": "Lee Gaiteri [LummoxJR]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3898s01.dat"
+  },
+  {
+    "name": "t04o6250.dat",
+    "author": "Paul Easter [pneaster]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/t04o6250.dat"
+  },
+  {
+    "name": "4150.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/4150.dat"
+  },
+  {
+    "name": "4490.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/4490.dat"
+  },
+  {
+    "name": "4216.dat",
+    "author": "Christian M. Angele [cma_1971]",
+    "license": "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/4216.dat"
+  },
+  {
+    "name": "4083.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/4083.dat"
+  },
+  {
+    "name": "s/4150s01.dat",
+    "author": "Andy Westrate [westrate]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/4150s01.dat"
+  },
+  {
+    "name": "cylj4x6.dat",
+    "author": "J.C. Tchang [tchang]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/cylj4x6.dat"
+  },
+  {
+    "name": "s/4490s01.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/4490s01.dat"
+  },
+  {
+    "name": "t04q4000.dat",
+    "author": "Donald Sutter [technog]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/t04q4000.dat"
+  },
+  {
+    "name": "s/15535s02.dat",
+    "author": "Max Martin Richter [MMR1988]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/15535s02.dat"
+  },
+  {
+    "name": "stud12.dat",
+    "author": "Tore Eriksson [Tore_Eriksson]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stud12.dat"
+  },
+  {
+    "name": "1-8ring19.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-8ring19.dat"
+  },
+  {
+    "name": "1-8ring18.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-8ring18.dat"
+  },
+  {
+    "name": "1-8ring8.dat",
+    "author": "Paul Easter [pneaster]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-8ring8.dat"
+  },
+  {
+    "name": "15254.dat",
+    "author": "Michael Heidemann [mikeheide]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/15254.dat"
+  },
+  {
+    "name": "13965.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/13965.dat"
+  },
+  {
+    "name": "6231.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/6231.dat"
+  },
+  {
+    "name": "14716.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/14716.dat"
+  },
+  {
+    "name": "48/5-24ndis.dat",
+    "author": "Max Martin Richter [MMR1988]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/5-24ndis.dat"
+  },
+  {
+    "name": "box3u4p.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box3u4p.dat"
+  },
+  {
+    "name": "16577.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/16577.dat"
+  },
+  {
+    "name": "19121.dat",
+    "author": "Heiko Jelnikar [KlotzKiste]",
+    "license": "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/19121.dat"
+  },
+  {
+    "name": "22385.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/22385.dat"
+  },
+  {
+    "name": "20310.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/20310.dat"
+  },
+  {
+    "name": "48/7-48cylo.dat",
+    "author": "Max Martin Richter [MMR1988]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/7-48cylo.dat"
+  },
+  {
+    "name": "48/7-48ndis.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/7-48ndis.dat"
+  },
+  {
+    "name": "s/22385s01.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/22385s01.dat"
+  },
+  {
+    "name": "4-4ring12.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4ring12.dat"
+  },
+  {
+    "name": "4-4ring7.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4ring7.dat"
+  },
+  {
+    "name": "s/20310s01.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/20310s01.dat"
+  },
+  {
+    "name": "48/7-48edge.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/7-48edge.dat"
+  },
+  {
+    "name": "48/7-48cyli.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/7-48cyli.dat"
+  },
+  {
+    "name": "box3u5p.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box3u5p.dat"
+  },
+  {
+    "name": "boxjcyl4.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/boxjcyl4.dat"
+  },
+  {
+    "name": "1-16edge.dat",
+    "author": "Marc Klein [marckl]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-16edge.dat"
+  },
+  {
+    "name": "23950.dat",
+    "author": "Rolf Osterthun [Rolf]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/23950.dat"
+  },
+  {
+    "name": "23969.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/23969.dat"
+  },
+  {
+    "name": "23405.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/23405.dat"
+  },
+  {
+    "name": "24201.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/24201.dat"
+  },
+  {
+    "name": "s/23969s01.dat",
+    "author": "Orion Pobursky [OrionP]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/23969s01.dat"
+  },
+  {
+    "name": "stud2s2e.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stud2s2e.dat"
+  },
+  {
+    "name": "48/1-8cylo.dat",
+    "author": "Max Martin Richter [MMR1988]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/1-8cylo.dat"
+  },
+  {
+    "name": "stud2s2.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stud2s2.dat"
+  },
+  {
+    "name": "25269.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/25269.dat"
+  },
+  {
+    "name": "24309.dat",
+    "author": "Owen Burgoyne [C3POwen]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/24309.dat"
+  },
+  {
+    "name": "24855.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/24855.dat"
+  },
+  {
+    "name": "26601.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/26601.dat"
+  },
+  {
+    "name": "s/25269s01.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/25269s01.dat"
+  },
+  {
+    "name": "48/4-4aring.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/4-4aring.dat"
+  },
+  {
+    "name": "48/4-4cyli.dat",
+    "author": "Paul Easter [pneaster]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/4-4cyli.dat"
+  },
+  {
+    "name": "s/24309s01.dat",
+    "author": "Evert-Jan Boer [ejboer]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/24309s01.dat"
+  },
+  {
+    "name": "4-4con8.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4con8.dat"
+  },
+  {
+    "name": "48/5-24chrd.dat",
+    "author": "Alex Taylor [anathema]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/5-24chrd.dat"
+  },
+  {
+    "name": "48/1-12edge.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/1-12edge.dat"
+  },
+  {
+    "name": "48/4-4edge.dat",
+    "author": "Paul Easter [pneaster]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/4-4edge.dat"
+  },
+  {
+    "name": "1-16cyli.dat",
+    "author": "Marc Klein [marckl]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-16cyli.dat"
+  },
+  {
+    "name": "box3u7a.dat",
+    "author": "Chris Dee [cwdee]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box3u7a.dat"
+  },
+  {
+    "name": "27925.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/27925.dat"
+  },
+  {
+    "name": "28466.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/28466.dat"
+  },
+  {
+    "name": "29120.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/29120.dat"
+  },
+  {
+    "name": "29119.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/29119.dat"
+  },
+  {
+    "name": "48/1-4aring.dat",
+    "author": "Max Martin Richter [MMR1988]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/1-4aring.dat"
+  },
+  {
+    "name": "s/27925s01.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/27925s01.dat"
+  },
+  {
+    "name": "1-4ring20.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4ring20.dat"
+  },
+  {
+    "name": "48/1-12ring39.dat",
+    "author": "Max Martin Richter [MMR1988]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/1-12ring39.dat"
+  },
+  {
+    "name": "48/1-12cylo.dat",
+    "author": "Max Martin Richter [MMR1988]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/1-12cylo.dat"
+  },
+  {
+    "name": "48/1-12chrd.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/1-12chrd.dat"
+  },
+  {
+    "name": "48/1-24cylo.dat",
+    "author": "Max Martin Richter [MMR1988]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/1-24cylo.dat"
+  },
+  {
+    "name": "48/1-24chrd.dat",
+    "author": "Alex Taylor [anathema]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/1-24chrd.dat"
+  },
+  {
+    "name": "48/1-12cyli.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/1-12cyli.dat"
+  },
+  {
+    "name": "48/1-24cyli.dat",
+    "author": "Niels Karsdorp [nielsk]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/1-24cyli.dat"
+  },
+  {
+    "name": "48/1-24edge.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/48/1-24edge.dat"
+  },
+  {
+    "name": "30046.dat",
+    "author": "Adam Howard [Whist]",
+    "license": "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/30046.dat"
+  },
+  {
+    "name": "30044.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/30044.dat"
+  },
+  {
+    "name": "30055.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/30055.dat"
+  },
+  {
+    "name": "30134.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/30134.dat"
+  },
+  {
+    "name": "box4-7a.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box4-7a.dat"
+  },
+  {
+    "name": "2-4ring7.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-4ring7.dat"
+  },
+  {
+    "name": "35480.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/35480.dat"
+  },
+  {
+    "name": "33291.dat",
+    "author": "John Riley [jriley]",
+    "license": "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/33291.dat"
+  },
+  {
+    "name": "37695.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/37695.dat"
+  },
+  {
+    "name": "32607.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/32607.dat"
+  },
+  {
+    "name": "s/37695s01.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/37695s01.dat"
+  },
+  {
+    "name": "3-4ring1.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-4ring1.dat"
+  },
+  {
+    "name": "43888.dat",
+    "author": "Stig-Erik Blomqvist [stigge72]",
+    "license": "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/43888.dat"
+  },
+  {
+    "name": "40244.dat",
+    "author": "Brent Jackson [bjackson]",
+    "license": "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/40244.dat"
+  },
+  {
+    "name": "50950.dat",
+    "author": "Orion Pobursky [OrionP]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/50950.dat"
+  },
+  {
+    "name": "40243.dat",
+    "author": "Andy Westrate [westrate]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/40243.dat"
+  },
+  {
+    "name": "1-4ring9.dat",
+    "author": "Franklin W. Cain [fwcain]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4ring9.dat"
+  },
+  {
+    "name": "1-4ring8.dat",
+    "author": "Franklin W. Cain [fwcain]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4ring8.dat"
+  },
+  {
+    "name": "s/40244s01.dat",
+    "author": "Brent Jackson [bjackson]",
+    "license": "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/40244s01.dat"
+  },
+  {
+    "name": "peghole.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/peghole.dat"
+  },
+  {
+    "name": "1-4ring7.dat",
+    "author": "Franklin W. Cain [fwcain]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4ring7.dat"
+  },
+  {
+    "name": "4-4ring6.dat",
+    "author": "Mark Kennedy [mkennedy]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/4-4ring6.dat"
+  },
+  {
+    "name": "s/50950s01.dat",
+    "author": "Rene Rechthaler [Blechtaler]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/50950s01.dat"
+  },
+  {
+    "name": "ridges.dat",
+    "author": "Vincent Messenet [Cheenzo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/ridges.dat"
+  },
+  {
+    "name": "ridgea.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/ridgea.dat"
+  },
+  {
+    "name": "box3u6a.dat",
+    "author": "Massimo Maso [Sirio]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/box3u6a.dat"
+  },
+  {
+    "name": "51266.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/51266.dat"
+  },
+  {
+    "name": "60481.dat",
+    "author": "Orion Pobursky [OrionP]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/60481.dat"
+  },
+  {
+    "name": "51239.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/51239.dat"
+  },
+  {
+    "name": "87552.dat",
+    "author": "J.C. Tchang [tchang]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/87552.dat"
+  },
+  {
+    "name": "60481a.dat",
+    "author": "J.C. Tchang [tchang]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/60481a.dat"
+  },
+  {
+    "name": "s/42205s02.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/42205s02.dat"
+  },
+  {
+    "name": "s/51266s01.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/51266s01.dat"
+  },
+  {
+    "name": "s/42205s01.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/42205s01.dat"
+  },
+  {
+    "name": "studhl.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/studhl.dat"
+  },
+  {
+    "name": "studhr.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/studhr.dat"
+  },
+  {
+    "name": "1-16ndis.dat",
+    "author": "Niels Karsdorp [nielsk]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-16ndis.dat"
+  },
+  {
+    "name": "s/60481as01.dat",
+    "author": "J.C. Tchang [tchang]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/60481as01.dat"
+  },
+  {
+    "name": "s/87552s01.dat",
+    "author": "J.C. Tchang [tchang]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/87552s01.dat"
+  },
+  {
+    "name": "studh.dat",
+    "author": "Gerald Lasser [GeraldLasser]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/studh.dat"
+  },
+  {
+    "name": "5-16cylo.dat",
+    "author": "Max Martin Richter [MMR1988]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/5-16cylo.dat"
+  },
+  {
+    "name": "7-16cylo.dat",
+    "author": "Max Martin Richter [MMR1988]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/7-16cylo.dat"
+  },
+  {
+    "name": "3-16cyli.dat",
+    "author": "Mark Kennedy [mkennedy]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-16cyli.dat"
+  },
+  {
+    "name": "5-16cyli.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/5-16cyli.dat"
+  },
+  {
+    "name": "5-16chrd.dat",
+    "author": "Niels Karsdorp [nielsk]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/5-16chrd.dat"
+  },
+  {
+    "name": "7-16chrd.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/7-16chrd.dat"
+  },
+  {
+    "name": "5-16edge.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/5-16edge.dat"
+  },
+  {
+    "name": "88292.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/88292.dat"
+  },
+  {
+    "name": "92947.dat",
+    "author": "Joerg Sommerer [Brickaneer]",
+    "license": "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/92947.dat"
+  },
+  {
+    "name": "93273.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/93273.dat"
+  },
+  {
+    "name": "88930.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/88930.dat"
+  },
+  {
+    "name": "3-16tndis.dat",
+    "author": "Massimo Maso [Sirio]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-16tndis.dat"
+  },
+  {
+    "name": "3-16cylo.dat",
+    "author": "J.C. Tchang [tchang]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-16cylo.dat"
+  },
+  {
+    "name": "1-8tndis.dat",
+    "author": "Massimo Maso [Sirio]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-8tndis.dat"
+  },
+  {
+    "name": "3-16tang.dat",
+    "author": "Massimo Maso [Sirio]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-16tang.dat"
+  },
+  {
+    "name": "axl3ho10.dat",
+    "author": "Santeri Piippo [arezey]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/axl3ho10.dat"
+  },
+  {
+    "name": "axl3hol3.dat",
+    "author": "Santeri Piippo [arezey]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/axl3hol3.dat"
+  },
+  {
+    "name": "axl3hol9.dat",
+    "author": "Santeri Piippo [arezey]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/axl3hol9.dat"
+  },
+  {
+    "name": "axl3hol8.dat",
+    "author": "Santeri Piippo [arezey]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/axl3hol8.dat"
+  },
+  {
+    "name": "axl3hol2.dat",
+    "author": "Santeri Piippo [arezey]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/axl3hol2.dat"
+  },
+  {
+    "name": "s/92947s00.dat",
+    "author": "Joerg Sommerer [Brickaneer]",
+    "license": "Licensed under CC BY 2.0 and CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/92947s00.dat"
+  },
+  {
+    "name": "stud15.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/stud15.dat"
+  },
+  {
+    "name": "s/93273s01.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/93273s01.dat"
+  },
+  {
+    "name": "s/88930s01.dat",
+    "author": "J.C. Tchang [tchang]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/88930s01.dat"
+  },
+  {
+    "name": "s/61068s01.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/61068s01.dat"
+  },
+  {
+    "name": "s/61068s02.dat",
+    "author": "Massimo Maso [Sirio]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/61068s02.dat"
+  },
+  {
+    "name": "4032a.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/4032a.dat"
+  },
+  {
+    "name": "3678b.dat",
+    "author": "Andy Westrate [westrate]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3678b.dat"
+  },
+  {
+    "name": "3044b.dat",
+    "author": "Orion Pobursky [OrionP]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3044b.dat"
+  },
+  {
+    "name": "4864b.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/4864b.dat"
+  },
+  {
+    "name": "s/3044bs01.dat",
+    "author": "Orion Pobursky [OrionP]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3044bs01.dat"
+  },
+  {
+    "name": "s/3678bs01.dat",
+    "author": "Andy Westrate [westrate]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3678bs01.dat"
+  },
+  {
+    "name": "s/4032s01.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/4032s01.dat"
+  },
+  {
+    "name": "s/4864s01.dat",
+    "author": "Mark Kennedy [mkennedy]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/4864s01.dat"
+  },
+  {
+    "name": "3815c01.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3815c01.dat"
+  },
+  {
+    "name": "3626bp01.dat",
+    "author": "Tore Eriksson [Tore_Eriksson]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3626bp01.dat"
+  },
+  {
+    "name": "76382p00.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/76382p00.dat"
+  },
+  {
+    "name": "3816.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3816.dat"
+  },
+  {
+    "name": "3815.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3815.dat"
+  },
+  {
+    "name": "3817.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3817.dat"
+  },
+  {
+    "name": "3819.dat",
+    "author": "Chris Dee [cwdee]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3819.dat"
+  },
+  {
+    "name": "973.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/973.dat"
+  },
+  {
+    "name": "3818.dat",
+    "author": "Chris Dee [cwdee]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3818.dat"
+  },
+  {
+    "name": "3820.dat",
+    "author": "Orion Pobursky [OrionP]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/3820.dat"
+  },
+  {
+    "name": "s/3626ap01s01.dat",
+    "author": "Max Martin Richter [MMR1988]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3626ap01s01.dat"
+  },
+  {
+    "name": "s/3626bs04.dat",
+    "author": "J.C. Tchang [tchang]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3626bs04.dat"
+  },
+  {
+    "name": "s/3626bs02.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3626bs02.dat"
+  },
+  {
+    "name": "s/3815s01.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3815s01.dat"
+  },
+  {
+    "name": "s/3817s01.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3817s01.dat"
+  },
+  {
+    "name": "s/3816s01.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3816s01.dat"
+  },
+  {
+    "name": "s/973s01.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/973s01.dat"
+  },
+  {
+    "name": "filstud3.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/filstud3.dat"
+  },
+  {
+    "name": "s/3818s02.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3818s02.dat"
+  },
+  {
+    "name": "s/3818s01.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3818s01.dat"
+  },
+  {
+    "name": "hipstud.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/hipstud.dat"
+  },
+  {
+    "name": "s/3816s02.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3816s02.dat"
+  },
+  {
+    "name": "knob1.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/knob1.dat"
+  },
+  {
+    "name": "s/3818s03.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3818s03.dat"
+  },
+  {
+    "name": "s/3818s04.dat",
+    "author": "Magnus Forsberg [MagFors]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/parts/s/3818s04.dat"
+  },
+  {
+    "name": "3-4cylo.dat",
+    "author": "Philippe Hurbain [Philo]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-4cylo.dat"
+  },
+  {
+    "name": "3-4ndis.dat",
+    "author": "James Jessiman",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/3-4ndis.dat"
+  },
+  {
+    "name": "2-4con10.dat",
+    "author": "Michael Heidemann [mikeheide]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-4con10.dat"
+  },
+  {
+    "name": "2-4con4.dat",
+    "author": "Mark Kennedy [mkennedy]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/2-4con4.dat"
+  },
+  {
+    "name": "1-4con10.dat",
+    "author": "Willy Tschager [Holly-Wood]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4con10.dat"
+  },
+  {
+    "name": "1-4con4.dat",
+    "author": "Steve Bliss [sbliss]",
+    "license": "Licensed under CC BY 4.0 : see CAreadme.txt",
+    "url": "https://library.ldraw.org/library/official/p/1-4con4.dat"
+  }
+]

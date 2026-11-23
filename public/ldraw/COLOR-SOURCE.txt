@@ -1,0 +1,3 @@
+Part and color availability derived from Rebrickable elements.csv.gz, retrieved 2026-11-22.
+https://rebrickable.com/downloads/
+https://rebrickable.com/terms/
